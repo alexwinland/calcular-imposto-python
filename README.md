@@ -1,6 +1,6 @@
-# Calculador de Impostos em Python 🧮💵
+# Calculador de Impostos em Python 🧮💰
 
-Olá, pessoal! 👋 Está pronto para transformar números em magia financeira? Aqui está um simples (e fabuloso!) calculador de impostos escrito em Python. Se você sempre quis saber quanto você realmente leva pra casa depois de impostos e benefícios, este código vai te ajudar!
+Olá, pessoal! 👋 Se você sempre quis saber quanto realmente vai levar pra casa depois dos impostos e benefícios, este código em Python vai te ajudar! Ele faz todo o trabalho pesado para você. Vamos conferir como funciona essa belezura?
 
 ## O Que Este Código Faz?
 
