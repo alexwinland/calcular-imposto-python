@@ -4,7 +4,9 @@ Olá, pessoal! 👋 Se você sempre quis saber quanto realmente vai levar pra ca
 
 ## O Que Este Código Faz?
 
-Este código Python é como um assistente pessoal que calcula quanto você vai receber após o imposto e os benefícios. Aqui está o passo a passo do que ele faz:
+Este código JavaScript é como um assistente pessoal digital que calcula o quanto você vai receber após o imposto e adicionar seus benefícios. 🚀
+
+### O Que Acontece Passo a Passo:
 
 1. **Pede Seu Salário**:
    - O programa começa pedindo para você digitar o valor do seu salário. Fácil, certo?
